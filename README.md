@@ -200,3 +200,36 @@ Allow microphone access (optional)
 Record or upload audio
 
 View prediction results & visualizations
+
+⚠️ Disclaimer
+
+This project is for:
+
+Educational purposes
+
+Research experimentation
+
+It is NOT a medical diagnostic tool and should not replace professional medical advice.
+
+👨‍💻 Author
+
+Your Name
+GitHub: https://github.com/yourusername
+
+🌟 Future Improvements
+
+Deep learning (CNN/LSTM for voice)
+
+Hyperparameter optimization
+
+Web app deployment (Streamlit/Flask)
+
+Cross-validation improvements
+
+Real clinical dataset validation
+
+Model explainability (SHAP)
+
+📜 License
+
+This project is open-source under the MIT License.
