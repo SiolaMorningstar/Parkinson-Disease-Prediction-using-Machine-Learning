@@ -213,8 +213,8 @@ It is NOT a medical diagnostic tool and should not replace professional medical 
 
 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/yourusername
+Alois Ulka Gabriel Rodrigues
+GitHub: https://github.com/SiolaMorningstar
 
 🌟 Future Improvements
 
